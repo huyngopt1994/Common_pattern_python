@@ -19,7 +19,7 @@ class Connector(object):
         self.protocol = self.protocol_factory_method()
 
     @abc.abstractmethod
-    def parse(self):
+    def parse(self, connect):
         """Parses web content.
         This method should be redefined in the run time
         """
