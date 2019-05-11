@@ -2,7 +2,7 @@
 
 Yep, This repository will include common patterns in python which I usually encounter when I work on company's project and my pet project :D 
 
-#Patterns
+# Patterns
 
 In this repo I will try to do step by step some popular patterns, you can check per description in per pattern package.
 

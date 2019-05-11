@@ -1,4 +1,4 @@
-#Advantage:
+# Advantage:
 The goal is to move instances creating to subclasses
 1. Make code not tied to concrete classes but to interact.It separates interfaces from their implementations.
 2. It decouple the code that creates objects from the code that uses them, reducing the complexity of maintenance.
