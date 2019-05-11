@@ -4,6 +4,10 @@ Yep, This repository will include common patterns in python which I usually enco
 
 #Patterns
 
-##MVC(Model-View-Controller)
-##Singleton
-##ClassFactory
+In this repo I will try to do step by step some popular patterns, you can check per description in per pattern package.
+
+I will try to update more description, pros and cons for per pattern in the next contributing.
+## MVC(Model-View-Controller)
+## Singleton
+## ClassFactory
+## Facade
